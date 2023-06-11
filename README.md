@@ -1,4 +1,4 @@
-# budgewhiz
+# budgetwhiz
 
 <h2> Welcome to my new another project budgetWhiz </h2>
 <p>"Stay on top of your finances with our user-friendly budget tracker app. Effortlessly track your income and expenses, set financial goals, and receive personalized insights. Stay in control of your spending, save money, and achieve financial success.On-the-go money management"</p>
